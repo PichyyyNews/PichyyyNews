@@ -45,13 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PichyyyNews&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PichyyyNews&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800" />
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=PichyyyNews&theme=default&hide_border=true" />
@@ -59,10 +53,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PichyyyNews&theme=flat&no-frame=true&column=7&margin-w=10" />
+  <a href="https://github.com/PichyyyNews/activity_attendance_System">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PichyyyNews&repo=activity_attendance_System&theme=default&hide_border=true" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PichyyyNews/pichyy-next-ui-component">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PichyyyNews&repo=pichyy-next-ui-component&theme=default&hide_border=true" />
+  </a>
 </p>
 
 ---
