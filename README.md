@@ -48,13 +48,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PichyyyNews&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PichyyyNews&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
   &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PichyyyNews&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PichyyyNews&layout=compact&theme=default&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PichyyyNews&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PichyyyNews&theme=default&hide_border=true" />
 </p>
 
 ---
@@ -63,29 +63,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PichyyyNews&theme=flat&no-frame=true&column=7&margin-w=10" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/PichyyyNews/PROJECT_1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PichyyyNews&repo=PROJECT_1&theme=default&hide_border=true" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/PichyyyNews/PROJECT_2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PichyyyNews&repo=PROJECT_2&theme=default&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/PichyyyNews/PROJECT_3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PichyyyNews&repo=PROJECT_3&theme=default&hide_border=true" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/PichyyyNews/PROJECT_4">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PichyyyNews&repo=PROJECT_4&theme=default&hide_border=true" />
-  </a>
 </p>
 
 ---
